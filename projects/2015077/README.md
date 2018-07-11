@@ -5,12 +5,12 @@
 
 ## Εργασία: Οπτικοποίηση δεδομένων χορηγιών (UK)
 
-#### Demo με τις πιο πρόσφατες αλλαγές: https://dimitristria.github.io/D3js-uk-political-donations/
-#### Αποθετήριο κώδικα με τις πιο πρόσφατες αλλαγές: https://github.com/DimitrisTria/D3js-uk-political-donations
+#### Demo με τις πιο πρόσφατες αλλαγές: https://jimtria.github.io/D3js-uk-political-donations/
+#### Αποθετήριο κώδικα με τις πιο πρόσφατες αλλαγές: https://github.com/JimTria/D3js-uk-political-donations
 
 ## Παραδοτέο 1
 
-#### Αποθετήριο κώδικα παραδοτέου 1: https://github.com/DimitrisTria/D3js-uk-political-donations/tree/Παραδοτέο1
+#### Αποθετήριο κώδικα παραδοτέου 1: https://github.com/JimTria/D3js-uk-political-donations/tree/Παραδοτέο1
 
 ### Εκπλήρωση ζητούμενων πρώτου παραδοτέου
 
@@ -45,4 +45,4 @@ Xρήση ήχου από το: https://freesound.org/people/farpro/sounds/26476
 ## Παραδοτέο 2 - Τελική αναφορά
   Η αναφορά για το δεύτερο παραδοτέο βρίσκεται στο ακόλουθο σύνδεσμο μαζί με την τελική αναφορά
   
-  Σύνδεσμος (Παραδοτέο 2 - Τελική αναφορά) : https://dimitristria.github.io/SW-Final-Report/
+  Σύνδεσμος (Παραδοτέο 2 - Τελική αναφορά) : https://jimtria.github.io/SW-Final-Report/
